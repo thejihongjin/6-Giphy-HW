@@ -1,4 +1,4 @@
-var topics = ['bacon','banana','burrito','coffee','french toast','ice cream','pickle','pizza','sushi','tea'];
+var topics = ['bacon','banana','boba','burrito','coffee','ice cream','pickle','pizza','sushi','tea'];
 renderButtons();
 
 $(document).on("click", ".food-btn", displayFoodInfo);
