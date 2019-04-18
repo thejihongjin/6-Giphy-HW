@@ -1,4 +1,5 @@
-# 6-giphy-hw
+# 6-Giphy-HW
+https://thejihongjin.github.io/6-Giphy-HW/
 
 # GifTastic
 ### Overview
